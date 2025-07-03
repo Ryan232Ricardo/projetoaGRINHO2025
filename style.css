@@ -1,9 +1,17 @@
-:root {
-
---Preto:#000000;
---Cor-fundo:#00008B;
---Cor-texto:#FFFFFF;
---Cor-link:#
-
+body {
+background-color: bisque;
+font-family: Bai Jamjuree;
 }
-
+footer {
+background-color: black
+color: white;
+position: fixed;
+bottom: 0;
+width: 100%;
+height: 2rem;
+}
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
